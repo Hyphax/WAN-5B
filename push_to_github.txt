@@ -1,0 +1,9 @@
+# Commands to push to GitHub
+# Replace YOUR-USERNAME with your actual GitHub username
+
+git remote add origin https://github.com/YOUR-USERNAME/wan22-ti2v-5b-koyeb.git
+git push -u origin main
+
+# Example if your username is "johnsmith":
+# git remote add origin https://github.com/johnsmith/wan22-ti2v-5b-koyeb.git
+# git push -u origin main

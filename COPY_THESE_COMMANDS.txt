@@ -1,0 +1,10 @@
+# COPY AND PASTE THESE COMMANDS ONE BY ONE:
+
+# Command 1: Connect to your GitHub repository
+git remote add origin https://github.com/Hyphax/WAN-5B.git
+
+# Command 2: Push all files to GitHub  
+git push -u origin main
+
+# After running these commands, your GitHub repository will be complete!
+# The missing app/main.py file will be uploaded and your repository will work.
